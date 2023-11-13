@@ -110,3 +110,16 @@ div{
     margin-right: auto;
     width: 20%; */
   }
+
+  table {
+    text-align: center;
+    width: 800px;
+    border-collapse: collapse;
+    margin: auto;
+    font-size: 20px;
+    padding-bottom: 30px;
+    }
+  
+    td{
+      padding-bottom: 10px;
+    }
